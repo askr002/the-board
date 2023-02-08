@@ -1,0 +1,1 @@
+This is an app that allows you to view the best deals, giveaways, and free-to-play games across all platforms on PC.
